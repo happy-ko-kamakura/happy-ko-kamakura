@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=happy-ko-kamakura" />
 </div>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh5M2U4ajFyOGIwMTRmN2JibGM2dGZ5bHVqNDdqeGF1NGI4azQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QxShMTi7HjtLMlUbUr/giphy.gif" width="28"> Hi there
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh5M2U4ajFyOGIwMTRmN2JibGM2dGZ5bHVqNDdqeGF1NGI4azQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QxShMTi7HjtLMlUbUr/giphy.gif" width="28"> Hi there!
 
 - 💻 I'm a frontend developer who's gonna be a creative developer!
 - 📫 How to reach me: sachiko.dev.0811@gmail.com
