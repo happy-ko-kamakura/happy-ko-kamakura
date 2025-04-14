@@ -9,7 +9,11 @@
 <br>
 
 ## 📕 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,sass,tailwind,aws,gitlab" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,sass,tailwind,materialui,styledcomponents,ai,ps,aws,xd,gitlab" />
+<br>
+
+## 📝 Learning
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=threejs" />
 <br>
 
 ## 🌱 Activities
